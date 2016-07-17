@@ -1,0 +1,35 @@
+# Blender3D MTL File: High Poly Piece of Heart.blend
+# Material Count: 3
+newmtl Material.247_High_Poly_Piece_of_He
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.681250 0.615625 0.650000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd High Poly Piece of Heart_grp.png
+
+
+newmtl Material.249_High_Poly_Piece_of_He
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.340625 0.275000 0.396875
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd High Poly Piece of Heart_grp.png
+
+
+newmtl Material.248_High_Poly_Piece_of_He
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.284375 0.218750 0.265625
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd High Poly Piece of Heart_grp.png
+
+
