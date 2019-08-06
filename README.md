@@ -1,2 +1,2 @@
 # Evade-3D
-a 3D game programmed in C++ using OpenGL
+A 3D game programmed in C++ using OpenGL.
